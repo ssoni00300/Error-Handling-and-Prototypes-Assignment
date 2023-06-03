@@ -13,6 +13,6 @@ const getPerson = function (person) {
 	}
 };
 
-console.log(getPerson({ name: "Rohan", age: 18 }));
-console.log(getPerson({ name: "Rohan" })); 
-console.log(getPerson(["name", "Rohan"]));
+console.log(getPerson({ name: "Ankit", age: 27 }));
+console.log(getPerson({ name: "Ankit" })); 
+console.log(getPerson(["name", "Ankit"]));
